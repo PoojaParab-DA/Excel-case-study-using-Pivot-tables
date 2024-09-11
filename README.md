@@ -75,6 +75,6 @@ the answer is: For commute 58.44 miles/hour average speed.
 17. To learn about the average speed per category, I selected category in row section and average of miles in values section. 
 
 ![image](https://github.com/user-attachments/assets/931e72ae-241e-495f-93ff-4b692c861409)
-the required answer ic seen in snapshot. 
+the required answer is seen in snapshot. 
 
 Thank you. 
